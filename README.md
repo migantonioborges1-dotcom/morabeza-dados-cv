@@ -34,5 +34,5 @@ bash obter_sessao.sh 2      # troca 2 pelo número da sessão
 python -m morabeza.resumo data/vendas_amostra.csv
 ```
 Repositório de Miguel Borges
-Técnico Informático | Aprender com o Python
-Ilha de Santiago
+Técnico Informático - Aprender com o Python
+Cidade da Praia - Ilha de Santiago
